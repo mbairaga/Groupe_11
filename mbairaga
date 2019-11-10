@@ -1,0 +1,13 @@
+class getionnaire
+
+            #DJEGUEDBE MBAIRAGA GONTRAN
+            # 17A833FS
+        def __init__(self, nom, number, adresse)
+
+            self.nom=nom
+            self.numéro=number
+            self.adresse=adresse
+            return"getsion{0}, numberphone{1}, compteMail{2}" .format(selt.nom, self.number, self.adresse
+
+           gestionnaires=gestionnaires("Gontran", 691693288, gontrandje@gmail.com)
+           banque__int__(self, nom, adresse)
